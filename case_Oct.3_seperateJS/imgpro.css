@@ -1,0 +1,38 @@
+
+body {
+	font-family: 'Arial';
+	color: black;
+	margin: 1em 10%;
+}
+
+h1 {
+	color: #333;
+}
+
+a {
+	color: #c60;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+ul {
+	padding: 0;
+}
+
+li {
+	padding: 1em;
+	list-style: none;
+}
+
+
+#imagegallery {
+	list-style: none;
+}
+
+#imagegallery li {
+	display: inline;
+}
+
+#imagegallery li a img {
+	border: 0;
+}
