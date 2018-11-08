@@ -1,0 +1,17 @@
+
+body {
+	font-family: 'Avenir Next';
+	font-size: 12pt;
+	margin: 3em 5%;
+}
+
+
+abbr {
+	text-decoration: none;
+	border: 0;
+	font-style: normal;
+}
+
+blockquote {
+	color: #8B8386;
+}
